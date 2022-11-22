@@ -9,5 +9,5 @@ export default <Footer>{
     // 页脚信息
     createYear: 2022,
     copyrightInfo:
-        penName + ' | ' + footerTitle + '未备案',
+        penName + ' | ' + footerTitle,
 }

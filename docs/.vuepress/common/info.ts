@@ -12,7 +12,7 @@ const avatar: string = 'https://cdn.staticaly.com/gh/jinmunan/imgs@master/imgs/u
 // 头像下的昵称
 const name: string = '胡桃'
 // 头像下的签名
-const slogan: string = '测试';
+const slogan: string = '胡桃率先出击';
 
 export {
     penName,

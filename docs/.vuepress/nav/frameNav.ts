@@ -1,12 +1,12 @@
 // 框架导航栏
 export default {
-  text: '框架', link: '/frames/',
+  text: '框架', link: '/frame/',
   items: [
     {
       text: '数据库',
       items: [
-        { text: 'MyBatis', link: '/mybatis/' },
-        { text: 'MyBatis-Plus', link: '/mybatis-plus/' },
+        { text: 'MyBatis', link: '/frame/mybatis/' },
+        { text: 'MyBatis-Plus', link: '/frame/mybatis-plus/' },
       ]
     },
     {
