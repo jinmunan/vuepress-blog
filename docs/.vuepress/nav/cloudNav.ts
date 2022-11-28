@@ -16,7 +16,7 @@ export default {
       items: [
         { text: 'Ribbon', link: '/ribbon/'},
         { text: 'OpenFeign', link: '/open-feign/' },
-        { text: 'Steam', link: '/steam/' },
+        { text: 'Stream', link: '/stream/' },
         
       ]
     },
@@ -33,7 +33,7 @@ export default {
       text: '服务网关',
       items: [
         { text:'Zuul', link: 'zuul'},
-        { text: 'GatWay', link: '/gat-way/' },
+        { text: 'GateWay', link: '/gate-way/' },
       ]
     },
     {
