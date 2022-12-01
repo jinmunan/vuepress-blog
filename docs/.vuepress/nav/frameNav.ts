@@ -10,6 +10,15 @@ export default {
       ]
     },
     {
+      text: 'Spring生态',
+      items: [
+        { text: 'Spring', link: '/frame/spring/' },
+        { text: 'SpringMVC', link: '/frame/springmvc/' },
+        { text: 'SpringBoot', link: '/frame/springboot/' },
+        { text: 'SpringSecurity', link: '/frame/springsecurity/' },
+      ]
+    },
+    {
       text: '消息中间件',
       items: [
         { text: 'ActiveMQ', link: '/activemq/' },
