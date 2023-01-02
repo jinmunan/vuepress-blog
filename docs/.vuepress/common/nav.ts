@@ -1,4 +1,5 @@
 // nav
+import downloadNav from '../nav/downloadNav'
 import javaNav from '../nav/javaNav'
 import databaseNav from '../nav/databaseNav'
 import frameNav from '../nav/frameNav'
@@ -15,6 +16,7 @@ export default [
     {
         text: '首页', link: '/'
     },
+    downloadNav, //下载站
     javaNav,   //Java导航
     databaseNav,  // 数据库导航
     frameNav,   // 框架导航

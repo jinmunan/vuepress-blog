@@ -9,22 +9,27 @@ export default {
             ]
         },
         {
-            text: 'JavaWeb',
+            text: 'Java进阶(WEB)',
             items: [
-                {text: 'JavaWeb', link: '/java/web/'},
+                {text: 'Java进阶(WEB)', link: '/java/web/'},
             ]
         },
         {
-            text: 'Java新版本特性',
+            text: 'JUC多线程',
             items: [
-                {text: 'Java新版本特性', link: '/java/8/'},
+                {text: 'JUC多线程', link: '/java/juc/'},
             ]
         },
         {
-            text: 'Java进阶',
+            text: 'JVM虚拟机',
             items: [
-                {text: 'JavaJUC', link: '/java/juc/'},
-                {text: 'JavaJVM', link: '/java/jvm/'},
+                {text: 'JVM虚拟机', link: '/java/jvm/'},
+            ]
+        },
+        {
+            text: 'JDK新特性',
+            items: [
+                {text: 'JDK新特性', link: '/java/jdk/'},
             ]
         },
     ]
