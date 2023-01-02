@@ -14,7 +14,7 @@ if [ -z "$GITHUB_TOKEN" ]; then
   msg='deploy 脚本部署'
   githubUrl=git@github.com:jinmunan/vuepress-blog.git
 else
-  msg='来自 Github actions 的自动部署'
+  msg='来自 GitHub actions 的自动部署'
   githubUrl=https://jinmunan:${GITHUB_TOKEN}@github.com/jinmunan/vuepress-blog.git
   git config --global user.name "jinmunan"
   git config --global user.email "zn923042857@gmail.com"
