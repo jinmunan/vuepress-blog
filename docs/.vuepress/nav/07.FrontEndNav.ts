@@ -13,8 +13,8 @@ export default {
     {
       text: '进阶',
       items: [
-        /* { text: 'jQuery', link: '/jquery/' },
-        { text: 'Node', link: '/node/' }, */
+        { text: 'jQuery', link: '/jquery/' },
+        { text: 'Node', link: '/node/' },
         { text: 'TypeScript', link: '/typescript/' }
       ]
     },

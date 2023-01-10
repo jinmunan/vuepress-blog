@@ -1,6 +1,6 @@
 // 索引导航
 export default {
-    text: '索引', link: '/archives/',
+    text: '关于本站', link: '/archives/',
     items: [
         {
             text: '本站',

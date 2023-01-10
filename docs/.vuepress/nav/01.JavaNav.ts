@@ -5,31 +5,31 @@ export default {
         {
             text: 'Java基础',
             items: [
-                {text: 'Java基础', link: '/java/se/'},
+                {text: 'Java基础', link: '/se/'},
             ]
         },
         {
             text: 'Java进阶(WEB)',
             items: [
-                {text: 'Java进阶(WEB)', link: '/java/web/'},
+                {text: 'Java进阶(WEB)', link: '/web/'},
             ]
         },
         {
             text: 'JUC多线程',
             items: [
-                {text: 'JUC多线程', link: '/java/juc/'},
+                {text: 'JUC多线程', link: '/juc/'},
             ]
         },
         {
             text: 'JVM虚拟机',
             items: [
-                {text: 'JVM虚拟机', link: '/java/jvm/'},
+                {text: 'JVM虚拟机', link: '/jvm/'},
             ]
         },
         {
             text: 'JDK新特性',
             items: [
-                {text: 'JDK新特性', link: '/java/jdk/'},
+                {text: 'JDK新特性', link: '/jdk/'},
             ]
         },
     ]

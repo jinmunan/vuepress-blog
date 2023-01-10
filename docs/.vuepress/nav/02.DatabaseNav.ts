@@ -3,17 +3,17 @@ export default {
   text: '数据库', link: '/database/',
   items: [
     {
-      text: 'SQL 数据库',
+      text: '关系型数据库',
       items: [
         { text: 'MySQL', link: '/mysql/' },
         { text: 'Oracle', link: '/oracle/' },
       ]
     },
     {
-      text: 'NoSQL 数据库',
+      text: '非关系型数据库',
       items: [
         { text: 'Redis', link: '/redis/' },
-        { text: 'ElasticSearch', link: '/es/' },
+        { text: 'ElasticSearch', link: '/elasticsearch/' },
         { text: 'MongoDB', link: '/mongodb/' },
       ]
     },
